@@ -1,6 +1,6 @@
 /*
 17. Escriba una función que dado el nombre completo de una persona y un apellido, compruebe si el apellido 
-pertenece a esa persona. */
+pertenece a esa persona.*/
 #include <iostream>
 #include <cstring> // Para utilizar funciones de manejo de cadenas en C
 using namespace std;
